@@ -1,1 +1,6 @@
 C:\Users\rocksolid\Documents\For-LeetCode\AlgorithmsTest\AlgorithmsTest\bin\Debug\AlgorithmsTest.exe.config
+C:\Users\rocksolid\Documents\For-LeetCode\AlgorithmsTest\AlgorithmsTest\bin\Debug\AlgorithmsTest.exe
+C:\Users\rocksolid\Documents\For-LeetCode\AlgorithmsTest\AlgorithmsTest\bin\Debug\AlgorithmsTest.pdb
+C:\Users\rocksolid\Documents\For-LeetCode\AlgorithmsTest\AlgorithmsTest\obj\Debug\AlgorithmsTest.csprojResolveAssemblyReference.cache
+C:\Users\rocksolid\Documents\For-LeetCode\AlgorithmsTest\AlgorithmsTest\obj\Debug\AlgorithmsTest.exe
+C:\Users\rocksolid\Documents\For-LeetCode\AlgorithmsTest\AlgorithmsTest\obj\Debug\AlgorithmsTest.pdb
